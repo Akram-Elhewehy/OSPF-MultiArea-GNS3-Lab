@@ -8,7 +8,7 @@ An enterprise-level network design simulating a multi-area OSPF routing environm
 
 Here is the structured network layout designed for this lab:
 
-![Network Topology](Topology-Files/topology.png)
+![Network Topology](OSPF-Multiarea-GNS3-Lab/Topology-Files/topology.png)
 
 ### IP Addressing & Area Strategy:
 * **Area 0 (Backbone):** Connects the core routers via network `11.0.0.0/24`.
